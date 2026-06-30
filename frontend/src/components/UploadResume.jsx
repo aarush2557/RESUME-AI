@@ -145,7 +145,7 @@ function UploadResume({ setResult }) {
 
       const response = await axios.post(
 
-        "http://127.0.0.1:5000/upload",
+        "https://resume-ai-1-eurv.onrender.com/upload",
 
         formData
 

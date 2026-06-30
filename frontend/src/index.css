@@ -18,7 +18,7 @@ radial-gradient(circle at top left,#3b0010,transparent 35%),
 
 #050505;
 
-color:white;
+color:#fff;
 
 min-height:100vh;
 
@@ -310,7 +310,7 @@ button:hover{
 
 background:#ff1744;
 
-color:white;
+color:#fff;
 
 
 }
@@ -377,7 +377,7 @@ box-shadow:
 .card h2{
 
 
-color:white;
+color:#fff;
 
 font-size:24px;
 
@@ -417,7 +417,7 @@ background:#111;
 border:1px solid #333;
 
 
-color:white;
+color:#fff;
 
 
 border-radius:15px;
@@ -557,7 +557,7 @@ transition:0.5s ease;
 .progress-bar span{
 
 
-color:white;
+color:#fff;
 
 font-size:20px;
 
